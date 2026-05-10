@@ -1,0 +1,3 @@
+# directions range
+
+127.0.0.0 /8 -> loopback -> restricted
